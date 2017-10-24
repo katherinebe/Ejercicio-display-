@@ -1,0 +1,16 @@
+div{
+  margin-top: 5px;
+  margin-left: 0px;
+  height:100px;
+  padding: 5px;
+}
+
+.amarillo{
+background: #ffc107;
+color: black;
+}
+
+.negro{
+  background: black;
+  color: white;
+}
